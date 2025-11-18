@@ -464,6 +464,7 @@ footer{
     background-position: 25%;
    }
    .navbar{
+     display: flex;  
     flex-direction: column;
    }
    .nav-links{
@@ -689,4 +690,5 @@ footer{
 
 
     
+
 
