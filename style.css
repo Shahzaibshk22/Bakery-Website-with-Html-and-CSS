@@ -464,13 +464,12 @@ footer{
     background-position: 25%;
    }
    .navbar{
-    flex-direction: row;
+    flex-direction: column;
    }
    .nav-links{
-    display: flex;
     position: relative;
     top: 10px;
-    right: 225px;
+    right: 180px;
    }
    .navbar img{
     margin-left: -70px;
@@ -494,7 +493,7 @@ footer{
    }
    .button{
     position: absolute;
-    bottom: 265px;
+    bottom: 150px;
     left: 30px;
    }
    .button :nth-child(1){
@@ -690,3 +689,4 @@ footer{
 
 
     
+
